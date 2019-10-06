@@ -1,0 +1,5 @@
+.vagrant
+.config
+dev-ca/
+*.pid
+
